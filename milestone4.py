@@ -166,7 +166,7 @@ Original file is located at
 #     st.info("⬆️ Upload a CSV file to start analysis")
 #
 
-!pip install streamlit pyngrok prophet scikit-learn matplotlib pandas numpy --quiet
+
 !streamlit run app.py &>/content/streamlit.log &
 
 from pyngrok import ngrok
