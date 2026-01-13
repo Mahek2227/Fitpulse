@@ -167,7 +167,7 @@ Original file is located at
 #
 
 
-!streamlit run app.py &>/content/streamlit.log &
+
 
 from pyngrok import ngrok
 
